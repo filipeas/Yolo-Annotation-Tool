@@ -17,6 +17,9 @@ run main.py
 run process.py
 ```
 
+PS: create the class name exactly the same as the folders, so that the .txt files are also created in the Labels directory.
+PS2: REFACTOR: when saving the .txt file put it to save in the Labels folder.
+
 NOTE: If you use new annotation tool, please create classes.txt file and write all classes what you train the objects. Because i read the all classes from classes.txt.
 
 The dataset is ready for yolo training.
